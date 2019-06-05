@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent vm2
     stages {
         stage('Greetings222') {
             steps {
